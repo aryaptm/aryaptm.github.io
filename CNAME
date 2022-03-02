@@ -1,1 +1,13 @@
-unusualsnail.me
+A DCV (Domain Control Validation) method is a way of proving that you own or control a certain registered domain name. To complete the DCV procedure, use the information provided below to create a CNAME record for your domain(s).
+If you use Namecheap's Default DNS, Backup DNS or FreeDNS: Visit the host records page to create the CNAME for each of the domains to be protected.
+If you use Namecheap Hosting DNS: Create the CNAME record manually in your cPanel account.
+If you use any other DNS: You'll need to create the CNAME record manually at your DNS provider.
+View this Knowledge base article to learn more.
+Domains to Validate
+unusualsnail.me PRIMARY DOMAIN
+
+Host
+_BE5BCF79D81E61E301EE50C3F33BA76D.unusualsnail.me
+
+Target
+E074768CFA72CF412DB2CD6C72BE8549.D0B9A4DD244DEBA1E25B0D5ABF183B43.621f6a2c4aa89.comodoca.com
