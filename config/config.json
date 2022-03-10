@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9084641851616D43EB8B3AAf1EF74cf1eA769A3F",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9084641851616D43EB8B3AAf1EF74cf1eA769A3F",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Unusual Snail Only",
+  "SYMBOL": "Snail",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/unusualsnailonly",
+  "SHOW_BACKGROUND": false
+}
